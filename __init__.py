@@ -2,7 +2,7 @@ import importlib
 import os
 
 node_list = [ #Add list of .py files containing nodes here
-    "toyxyz_test_nodes", "visual_area_mask"
+    "visual_area_mask"
 ]
 
 NODE_CLASS_MAPPINGS = {}
