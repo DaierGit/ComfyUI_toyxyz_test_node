@@ -2,5 +2,5 @@ numpy
 torch
 opencv-python
 mss
-pywin32
+#pywin32
 trimesh
